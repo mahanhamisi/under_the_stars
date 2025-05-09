@@ -1,2 +1,3 @@
-# under_the_stars
- A small and simple mod about camping
+# Under_The_Stars
+Cozy mod about camping
+Check out the ruins of the people before you
